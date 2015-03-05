@@ -7,24 +7,24 @@ A variation on the landscape theme (Hexo default theme).  Customisations include
 - 3 styles for images when using swig (thumbnail, code & topic)
 - minimised spacing everywhere, smaller header banner
 
-- [Preview theme by viewing my blog](http://jr0cket.co.uk/)
+- [Preview theme by viewing my blog](http://agileforce.co.uk/)
 
 ## Installation
 
 ``` bash
-git clone https://github.com/hexojs/hexo-theme-landscape.git themes/landscape-jr0cket
+git clone https://github.com/agileforce/hexo-theme-landscape-agileforce.git themes/landscape-agileforce-jr0cket
 ```
 
 **Landscape requires Hexo 2.4 and above.**
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape-jr0cket`.
+Modify `theme` setting in `_config.yml` to `landscape-agileforce`.
 
 ### Update
 
 ``` bash
-cd themes/landscape-jr0cket
+cd themes/landscape-agileforce
 git pull
 ```
 
