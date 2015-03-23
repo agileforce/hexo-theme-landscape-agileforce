@@ -1,6 +1,8 @@
 # Header
 menu:
   Home: /
+  Lightning: /lightning
+  DevZone: http://salesforce-devzone.github.io
   Heroku Workshop: /heroku-workshop
   Developers: https://developer.salesforce.com
 rss: /atom.xml
