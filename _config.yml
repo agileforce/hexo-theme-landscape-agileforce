@@ -2,9 +2,9 @@
 menu:
   Home: /
   Lightning: /lightning
-  DevZone: http://salesforce-devzone.github.io
   Heroku Workshop: /heroku-workshop
-  Developers: https://developer.salesforce.com
+  Salesforce Developers: https://developer.salesforce.com
+  jr0cket: http://jr0cket.co.uk
 rss: /atom.xml
 
 # Content
